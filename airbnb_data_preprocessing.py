@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------#
 # Project overview:                                                       #
-#           Processing Airbnb data in json anc converting it to csv file. #
+#           Processing Airbnb data in json and converting it to csv file. #
 # The processed data will be used for visualization using streamlit and   # 
 # Power BI                                                                #
 #-------------------------------------------------------------------------#
